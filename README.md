@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing websites.
 - 🌱 I’m currently learning development and coding.
 - 💞️ 
-- 📫 How to reach me deebaanwar1110@gmail.com
+- 📫 To reach me- deebaanwar1110@gmail.com
 
 <!---
 DEEBAANWAR03/DEEBAANWAR03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
