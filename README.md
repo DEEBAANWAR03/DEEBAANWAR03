@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEEBAANWAR03
 - 👀 I’m interested in designing websites.
-- 🌱 I’m currently learning development and coding.
+- 🌱 I’m currently learning development and competitive coding.
 - 💞️ 
 - 📫 To reach me- deebaanwar1110@gmail.com
 
